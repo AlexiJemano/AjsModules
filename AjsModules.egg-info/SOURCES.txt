@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+setup.py
+AjsModules/__init__.py
+AjsModules/main.py
+AjsModules.egg-info/PKG-INFO
+AjsModules.egg-info/SOURCES.txt
+AjsModules.egg-info/dependency_links.txt
+AjsModules.egg-info/top_level.txt
