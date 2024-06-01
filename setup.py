@@ -8,7 +8,7 @@ with open(path.join(working_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name='AjsModules', # name of packe which will be package dir below project
     version='0.0.1',
-    #url='https://github.com/yourname/yourproject',
+    url='https://github.com/AlexiJemano/AjsModules',
     author='The Urban Penguin',
     author_email='Alex.Jeman@outlook.com',
     description='Small things to make your life better',
