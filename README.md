@@ -2,7 +2,7 @@
 
 To install please use:
 ```angular2html
-pip install -i https://test.pypi.org/simple/ AjsModules
+pip install -i https://test.pypi.org/simple/ AjsModules - this may be change to the standart pypi so dont use it yet if you really what to use it download the project 
 ```
 
 A complete list of small things in this modules:
